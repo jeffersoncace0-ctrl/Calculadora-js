@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="contenedor">
+
+        <div class="calculadora">
+
+            <input type="text" id="numero1" readonly>
+            <input type="text" id="operacion" readonly>
+            <input type="text" id="numero2" readonly>
+            <input type="text" id="resultado" readonly>
+
+            <span class="tecla clear" id="clear">C</span>
+            <span class="tecla op">/</span>
+            <span class="tecla op">*</span>
+
+            <span class="tecla num">7</span>
+            <span class="tecla num">8</span>
+            <span class="tecla num">9</span>
+            <span class="tecla op">-</span>
+
+            <span class="tecla num">4</span>
+            <span class="tecla num">5</span>
+            <span class="tecla num">6</span>
+            <span class="tecla operacion">+</span>
+
+            <span class="tecla num">1</span>
+            <span class="tecla num">2</span>
+            <span class="tecla num">3</span>
+
+            <span class="tecla num">0</span>
+            <span class="tecla num">00</span>
+            <span class="tecla num">.</span>
+
+            <span class="tecla igual" id="igual">=</span>
+
+        </div>
+
+        
+        <ul id="historial" class="historial"></ul>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
