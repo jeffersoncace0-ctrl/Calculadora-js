@@ -1,22 +1,31 @@
 # Calculadora-js
-Calculadora con Historial:
-Este proyecto es una calculadora básica creada con HTML, CSS y JavaScript, que permite realizar operaciones matemáticas simples y guardar un historial de resultados.
+# 🧮 Calculadora con Historial
 
-Funcionalidades:
-Sumar ➕
-Restar ➖
-Multiplicar ✖️
-Dividir ➗
-Mostrar resultado en pantalla
-Guardar historial de operaciones
-Limpiar calculadora y historial
+Este proyecto es una **calculadora básica** desarrollada con **HTML, CSS y JavaScript**, que permite realizar operaciones matemáticas simples y guardar un historial de resultados.
 
-Tecnologías usadas:
-HTML5
-CSS3
-JavaScript 
+---
 
-Estructura del proyecto:
+## ✨ Funcionalidades
+
+- ➕ Sumar
+- ➖ Restar
+- ✖️ Multiplicar
+- ➗ Dividir
+- 🖥️ Mostrar resultado en pantalla
+- 📜 Guardar historial de operaciones
+- 🧹 Limpiar calculadora y historial
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+## 📁 Estructura del proyecto
 
 /calculadora
 │
@@ -24,25 +33,26 @@ Estructura del proyecto:
 ├── style.css
 └── script.js
 
-Cómo usar el proyecto:
-Descarga o clona el repositorio
-Abre el archivo index.html en tu navegador
-Usa los botones de la calculadora
-Observa el historial de operaciones abajo
+---
 
+## 🚀 Cómo usar el proyecto
+
+1. Descarga o clona este repositorio:
+   ```bash
+   
 ¿Cómo funciona?
-El usuario presiona números y operaciones
-JavaScript captura los datos con getElementById y querySelector
-Se realiza el cálculo al presionar =
-El resultado se muestra en pantalla
-La operación se guarda automáticamente en el historial usando el DOM
+El usuario ingresa números y selecciona operaciones.
+JavaScript captura los datos usando getElementById y querySelector.
+Al presionar =, se realiza el cálculo.
+El resultado se muestra en pantalla.
+Cada operación se guarda automáticamente en el historial usando el DOM.
 
-Aprendizajes del proyecto:
+Aprendizajes del proyecto
 Manipulación del DOM
-Eventos con addEventListener
-Creación de elementos dinámicos (createElement)
+Manejo de eventos con addEventListener
+Creación de elementos dinámicos con createElement
 Uso de condiciones y operaciones matemáticas
-Organización básica de un proyecto web
+Organización de un proyecto web básico
 
 Vista previa:
 
