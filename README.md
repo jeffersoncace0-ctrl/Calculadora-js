@@ -93,16 +93,11 @@ Este proyecto es una **calculadora básica** desarrollada con **HTML, CSS y Java
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Jefferson Cacerez Fernandez**
 
-```
 
-Si quieres, puedo ayudarte a:
-- agregarle badges (estilo profesional GitHub)
-- ponerle demo en vivo (GitHub Pages)
-- o mejorar el diseño del README aún más estilo portfolio 🚀
 ```
 
 
