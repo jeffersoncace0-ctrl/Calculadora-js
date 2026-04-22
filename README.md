@@ -1,4 +1,4 @@
-# Calculadora-js
+
 # 🧮 Calculadora con Historial
 
 Este proyecto es una **calculadora básica** desarrollada con **HTML, CSS y JavaScript**, que permite realizar operaciones matemáticas simples y guardar un historial de resultados.
@@ -27,11 +27,15 @@ Este proyecto es una **calculadora básica** desarrollada con **HTML, CSS y Java
 
 ## 📁 Estructura del proyecto
 
+```
+
 /calculadora
 │
 ├── index.html
 ├── style.css
 └── script.js
+
+````
 
 ---
 
@@ -39,31 +43,67 @@ Este proyecto es una **calculadora básica** desarrollada con **HTML, CSS y Java
 
 1. Descarga o clona este repositorio:
    ```bash
-   
-¿Cómo funciona?
-El usuario ingresa números y selecciona operaciones.
-JavaScript captura los datos usando getElementById y querySelector.
-Al presionar =, se realiza el cálculo.
-El resultado se muestra en pantalla.
-Cada operación se guarda automáticamente en el historial usando el DOM.
+   git clone <url-del-repo>
+````
 
-Aprendizajes del proyecto
-Manipulación del DOM
-Manejo de eventos con addEventListener
-Creación de elementos dinámicos con createElement
-Uso de condiciones y operaciones matemáticas
-Organización de un proyecto web básico
+2. Abre el archivo `index.html` en tu navegador.
 
-Vista previa:
+3. Usa la calculadora desde la interfaz.
 
+4. Revisa el historial de operaciones en pantalla.
+
+---
+
+## ⚙️ ¿Cómo funciona?
+
+* El usuario ingresa números y selecciona operaciones.
+* JavaScript captura los datos usando `getElementById` y `querySelector`.
+* Al presionar `=`, se realiza el cálculo.
+* El resultado se muestra en pantalla.
+* Cada operación se guarda automáticamente en el historial usando el DOM.
+
+---
+
+## 📚 Aprendizajes del proyecto
+
+* Manipulación del DOM
+* Manejo de eventos con `addEventListener`
+* Creación de elementos dinámicos con `createElement`
+* Uso de condiciones y operaciones matemáticas
+* Organización de un proyecto web básico
+
+---
+
+## 🖼️ Vista previa
+
+> Agrega aquí una imagen o captura de tu calculadora:
+>
 <img width="1003" height="832" alt="image" src="https://github.com/user-attachments/assets/38d9e5eb-ff8b-44be-89bd-8e8518dc4388" />
 
-Mejoras futuras:
-Teclado con números físicos
-Diseño responsive (móvil)
-Botón para borrar solo un número
-Historial clickeable
-Modo oscuro/claro
 
-Autor:
-Jefferson Cacerez Fernandez.
+---
+
+## 🚧 Mejoras futuras
+
+* ⌨️ Soporte para teclado físico
+* 📱 Diseño responsive (móvil)
+* ⬅️ Botón para borrar un solo número
+* 🖱️ Historial clickeable
+* 🌙 Modo oscuro / claro
+
+---
+
+## 👨‍💻 Autor
+
+**Jefferson Cacerez Fernandez**
+
+```
+
+Si quieres, puedo ayudarte a:
+- agregarle badges (estilo profesional GitHub)
+- ponerle demo en vivo (GitHub Pages)
+- o mejorar el diseño del README aún más estilo portfolio 🚀
+```
+
+
+
